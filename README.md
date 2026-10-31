@@ -11,7 +11,7 @@
 | Project | What I did | Tools | Status |
 |:--|:--|:--|:--|
 | **[Houston vs. DFW Industrial Air Quality](https://github.com/Yousef-sham5/houston-dfw-air-quality)** | Screened 5.56M EPA records (2021 to 2025) against NAAQS and compared Houston's Ship Channel refinery corridor with nearby sites and DFW. Ship Channel NO₂ runs higher and ozone lower all day; adding NO₂ back closes 52% of that gap. | R (dplyr, ggplot2), R Markdown, Git | Phases 1 and 2 complete, 26 figures · Phase 3 in progress |
-| **[Photocatalytic Dye Degradation Study](https://link.springer.com/article/10.1007/s11356-026-38209-6)** (Research Assistant) | Validated experimental data for a study on green Ag/TiO₂ photocatalysts degrading Acid Orange 10 azo dye under white LED light, combining lab experiments, DFT calculations, and ML-guided regression | Excel, Python (pandas, NumPy) | Published in *Environmental Science and Pollution Research* (2026) |
+| **[Photocatalytic Dye Degradation Study](https://link.springer.com/article/10.1007/s11356-026-38209-6)** (Research Assistant) | Validated experimental data for a study on green Ag/TiO₂ photocatalysts degrading Acid Orange 10 azo dye under white LED light, combining lab experiments, DFT calculations, and ML-guided regression. | Excel, Python (pandas, NumPy) | Published in *Environmental Science and Pollution Research* (2026) |
 
 ---
 
@@ -29,5 +29,5 @@
 
 ## 📫 Contact
 
-**LinkedIn:** [linkedin.com/in/yshamsaldeen](linkedin.com/in/yshamsaldeen)\
-**Email:** [yousefshams.yh@gmail.com](yousefshams.yh@gmail.com)
+**LinkedIn:** [linkedin.com/in/yshamsaldeen](https://www.linkedin.com/in/yshamsaldeen/)\
+**Email:** [yousefshams.yh@gmail.com](mailto:yousefshams.yh@gmail.com)
