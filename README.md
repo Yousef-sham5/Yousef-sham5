@@ -1,6 +1,6 @@
 # Yousef Shamsaldeen
 
-**Chemical engineering undergrad (3rd year) in Kuwait 🇰🇼.** I work where process engineering meets messy data: industrial air quality analysis in R, data validation for a published photocatalysis study, and process safety training on the side.
+**Chemical engineering undergrad (3rd year) in Kuwait.** I work where process engineering meets messy data: industrial air quality analysis in R, data validation for a published photocatalysis study, and process safety training on the side.
 
 `American University of the Middle East` · `Honors & Dean's List` · `Open to summer 2027 internships`
 
