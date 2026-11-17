@@ -2,7 +2,7 @@
 
 **Chemical engineering undergrad (3rd year) in Kuwait.** I work where process engineering meets messy data: industrial air quality analysis in R, data validation for a published photocatalysis study, and process safety training on the side.
 
-`American University of the Middle East` · `Honors & Dean's List` · `Open to summer 2027 internships`
+`American University of the Middle East` · `Honors & Dean's List (4/4 semesters)` · `Open to summer 2027 internships`
 
 ---
 
@@ -21,7 +21,7 @@
 |:--|:--|
 | Programming | **R** (dplyr, tidyr, ggplot2, R Markdown) · **Python** (pandas, NumPy) · **C** · **MATLAB** · **Git** |
 | Data analysis | Cleaning and validating large datasets (8.9M raw rows), regulatory threshold screening, block-bootstrap confidence intervals, regression, design of experiments (2² factorial) |
-| Process safety | `▓▓▓▓▓░░░░░░░` **10 / 24** CCPS SAChE courses: fundamentals, toxicology, reactivity, fire, explosion hazards, source models |
+| Process safety | `▓▓▓▓▓▓▓▓▓░░░` **18 / 24** CCPS SAChE courses: fundamentals, toxicology, reactivity, fire, explosion hazards, source models |
 | Certificates | **Microsoft:** Python Development Professional · **IBM:** Data Analytics with Excel and R Professional · **Google:** AI Professional · **MathWorks:** MATLAB Onramp, Statistics Onramp |
 | Motion design | **Adobe After Effects** · animated product ads (side work) |
 
